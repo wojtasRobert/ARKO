@@ -1,0 +1,6 @@
+# ignore all but code
+*
+!*.c
+!*.asm
+!*.s
+!MakeFile
