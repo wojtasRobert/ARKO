@@ -1,0 +1,1 @@
+Wczytać ciąg znaków o długości podzielnej przez 4. Wczytywać paczkami po cztery i zamieniać wielkość liter tak aby wygenerować sekwencję Ab-d gdzie myślnik oznacza aby zostawić wielkość litery taką jaka jest.
